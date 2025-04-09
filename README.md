@@ -1,5 +1,6 @@
 # estudo_programacao
-# 📘 estudo_programacao
+
+# 📘 estudo_programacao 2025
 
 ✨ **Meu primeiro repositório público no GitHub.**  
 Este é o início da minha jornada como desenvolvedor, criador e eterno aprendiz. Aqui, estou registrando meus estudos, desafios e descobertas enquanto mergulho no universo da tecnologia e da programação.
@@ -26,4 +27,3 @@ Se algo aqui te ajudar, te inspirar ou até te motivar a começar também, esse 
 ---
 
 📍 Me acompanhe por aqui. Ainda é só o começo.
-
