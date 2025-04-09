@@ -19,6 +19,9 @@ Cada linha, cada commit, representa um passo a mais rumo aos meus objetivos: **c
 Acreditar no conhecimento compartilhado é um dos meus valores.  
 Se algo aqui te ajudar, te inspirar ou até te motivar a começar também, esse repositório já cumpriu sua missão.
 
+
+---- OBS: Essa linha eu adicionei no site Github! 04-2025
+
 ---
 
 > **“O futuro pertence àqueles que constroem com curiosidade, constância e coragem.”**  
