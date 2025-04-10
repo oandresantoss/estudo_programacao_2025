@@ -1,5 +1,3 @@
-# estudo_programacao
-
 # 📘 estudo_programacao 2025
 
 ✨ **Meu primeiro repositório público no GitHub.**  
